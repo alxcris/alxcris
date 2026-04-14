@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">Student at Faculty of Automatic Control & Computer Science.</h3>
 
-<!--
-**alxcris/alxcris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning C, Java, Assembly and Python
+
+- ⚡ When I'm not coding, you'll find me:
+  
+        ⚽ On the football pitch  
+        🎹 At the piano keys  
+        🎮 Playing video games 
+        🌍 Exploring the world
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" alt="assembly" width="40"
+      height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8bMTEzcDFbb2J_lJaF5hJldZP4IWAT9vMaw&s" alt="assembly" width="40"
+      height="40" />
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/alexandru-cristian-ilie-32a7203a1/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/alex_i_2006/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199073152910/" target="blank">
+<img align="center" 
+     src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" 
+     alt="alxcris" height="30" width="40" /></a>
+</p>
+
+<br>
+
+
