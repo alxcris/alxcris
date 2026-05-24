@@ -9,13 +9,6 @@
 
 - 🌱 I’m currently learning C, Java, Assembly and Python
 
-- ⚡ When I'm not coding, you'll find me:
-  
-        ⚽ On the football pitch  
-        🎹 At the piano keys  
-        🎮 Playing video games 
-        🌍 Exploring the world
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
