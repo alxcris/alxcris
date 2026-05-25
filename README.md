@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Student at Faculty of Automatic Control & Computer Science.</h3>
+<h3 align="center">CSE Student at Faculty of Automatic Control & Computer Science.</h3>
 
 <br>
 <br>
